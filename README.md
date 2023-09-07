@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there! i'm Johan Sebastian Laverde Pineda👋
 
+## I´m a System technologist, focus on backend
+
+- 🔭 I’m currently student systems engineering
+- 🌱 I’m currently learning frontend
 <!--
 **johanpineda10/johanpineda10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

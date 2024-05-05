@@ -1,9 +1,12 @@
-### Hola, mi nombre es Johan Sebastian Laverde Pineda👋
+## Hola, mi nombre es Johan Sebastian Laverde Pineda👋
 
-## Soy desarrollador de software con enfoque en el desarrollo back-end
+### Soy desarrollador de software con enfoque en el desarrollo back-end
 
 - 🔭 Soy tecnologo en sistemas e ingeniero en proceso
-- 🌱 I’m currently learning frontend
+- 🌱 Experiencia en lenguajes
+- Java
+- Python
+- C++
 <!--
 **johanpineda10/johanpineda10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

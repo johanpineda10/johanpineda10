@@ -3,10 +3,7 @@
 ### Soy desarrollador de software con enfoque en el desarrollo back-end
 
 - 🔭 Soy tecnologo en sistemas e ingeniero en proceso
-- 🌱 Experiencia en lenguajes
-- Java
-- Python
-- C++
+- 🌱 Tengo experiencia en lenguaje Java, Python, C++.
 <!--
 **johanpineda10/johanpineda10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
